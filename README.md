@@ -9,6 +9,7 @@ This project challenges you to build a library of essential C functions that wil
 
 **Functions List**
 1. String Manipulation:
+
 `ft_strlen:` Calculates the length of a string.
 
 `ft_strcpy:` Copies a string.
@@ -21,6 +22,7 @@ This project challenges you to build a library of essential C functions that wil
 
 
 2. Memory Management:
+
 `ft_memset:` Fills memory with a constant byte.
 
 `ft_memcpy:` Copies memory area.
@@ -31,6 +33,7 @@ This project challenges you to build a library of essential C functions that wil
 
 
 3. Character Checks:
+
 `ft_isalpha:` Checks if a character is alphabetic.
 
 `ft_isdigit:` Checks if a character is a digit.
@@ -43,6 +46,7 @@ This project challenges you to build a library of essential C functions that wil
 
 
 4. Linked List Utilities:
+
 `ft_lstnew:` Creates a new linked list node.
 
 `ft_lstadd_front:` Adds a node to the beginning of a list.
