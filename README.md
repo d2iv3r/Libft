@@ -7,7 +7,7 @@ This project challenges you to build a library of essential C functions that wil
 
 ## Features
 
-                            Functions List
+**Functions List**
 1. String Manipulation:
 `ft_strlen:` Calculates the length of a string.
 `ft_strcpy:` Copies a string.
