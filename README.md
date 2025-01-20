@@ -78,3 +78,8 @@ Use the -L and -l flags to link the library when compiling your project. For exa
 ```bash
 gcc -Wall -Wextra -Werror your_file.c -L. -lft -o your_program
 ```
+
+## Subject
+https://cdn.intra.42.fr/pdf/pdf/147564/en.subject.pdf
+
+---
